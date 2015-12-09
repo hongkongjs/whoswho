@@ -1,5 +1,7 @@
 A growing list of who's who in the world of JS (and people you should probably follow)...
 
+- Rick Waldron https://github.com/rwaldron
+- James Halliday https://github.com/substack
 - TJ Holowaychuk https://github.com/tj
 - Brendan Eich https://github.com/BrendanEich
 - Addy Osmani https://github.com/addyosmani
