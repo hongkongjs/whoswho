@@ -3,6 +3,7 @@ A growing list of who's who in the world of JS (and people you should probably f
 - Rick Waldron https://github.com/rwaldron
 - James Halliday https://github.com/substack
 - TJ Holowaychuk https://github.com/tj
+- Charlie Robbins https://github.com/indexzero
 - Brendan Eich https://github.com/BrendanEich
 - Addy Osmani https://github.com/addyosmani
 - Paul Irish https://github.com/paulirish
